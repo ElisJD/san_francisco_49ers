@@ -1,1 +1,5 @@
 # San Francisco 49ers Analysis Project
+
+This repository contains work completed as part of the University of Liverpool Graduate Industry Placement Programme, delivered in collaboration with Springpod (August–September 2025). I chose the Data Analytics pathway, where the focus was applying analytical methods to real-world data - in this case, evaluating the performance of the San Francisco 49ers NFL team.
+
+The project covers the full data analysis workflow: collecting and cleaning game-level data from the 2023 and 2024 seasons, exploring offensive and defensive performance trends, and identifying key indicators such as turnover differential and point differential. Using these features, I developed predictive models to estimate future outcomes such as points scored and win probability, and communicated insights through clear visualisations.
